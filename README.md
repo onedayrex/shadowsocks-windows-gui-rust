@@ -12,3 +12,4 @@ Shadowsocks Windows GUI in Rust
 
 
 
+1
